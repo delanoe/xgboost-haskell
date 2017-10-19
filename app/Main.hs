@@ -1,5 +1,7 @@
 {-# LANGUAGE OverloadedLists #-}
 {-# LANGUAGE ExtendedDefaultRules #-}
+{-# LANGUAGE NoImplicitPrelude #-}
+{-# LANGUAGE OverloadedStrings #-}
 
 module Main where
 
